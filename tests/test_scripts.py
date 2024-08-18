@@ -1,12 +1,21 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
 
 
 
 
 def testloginPage():
-    driver = webdriver.Chrome()
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
+    # = webdriver.Chrome()
+    driver = webdriver.Chrome(ChromeDriverManager(version="127.0.6533.119").install())
 
     driver.get('https://www.saucedemo.com/')
 
