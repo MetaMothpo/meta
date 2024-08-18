@@ -15,7 +15,7 @@ def testloginPage():
     chrome_options.add_argument("--disable-dev-shm-usage")
 
     # = webdriver.Chrome()
-    driver = webdriver.Chrome(ChromeDriverManager(version="127.0.6533.119").install())
+    driver = webdriver.Chrome(ChromeDriverManager(version="124.0.5221.0").install())
 
     driver.get('https://www.saucedemo.com/')
 
