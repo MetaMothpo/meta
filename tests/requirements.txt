@@ -1,0 +1,6 @@
+Appium_Python_Client==4.0.1
+Appium_Python_Client==4.1.0
+pandas==2.2.2
+pytest==8.3.2
+selenium==4.23.1
+streamlit==1.37.1
