@@ -1,0 +1,8 @@
+Login Test,Fail,LoginPage() takes no arguments,2024-07-30 15:42:49.437377
+Navigation Test,Fail,HomePage() takes no arguments,2024-07-30 15:42:49.442163
+Add to Cart Test,Fail,ProductPage() takes no arguments,2024-07-30 15:42:49.453281
+Checkout Test,Fail,CheckoutPage() takes no arguments,2024-07-30 15:42:49.460391
+Login Test,Fail,LoginPage() takes no arguments,2024-07-30 15:45:13.117251
+Navigation Test,Fail,HomePage() takes no arguments,2024-07-30 15:45:13.124559
+Add to Cart Test,Fail,ProductPage() takes no arguments,2024-07-30 15:45:13.135346
+Checkout Test,Fail,CheckoutPage() takes no arguments,2024-07-30 15:45:13.147462

@@ -1,0 +1,27 @@
+Login successful,PASS,2024-08-15 17:16:05
+"Balance is displayed, Balance: R220.62",PASS,2024-08-15 17:16:08
+Send Money to MoMo number failed,Failed,2024-08-15 17:16:18
+Login successful,PASS,2024-08-15 17:22:49
+"Balance is displayed, Balance: R200.62",PASS,2024-08-15 17:22:52
+Send Money to MoMo number failed,Failed,2024-08-15 17:23:01
+Login successful,PASS,2024-08-15 17:37:53
+"Balance is displayed, Balance: R180.62",PASS,2024-08-15 17:37:56
+Login successful,PASS,2024-08-15 17:55:56
+"Balance is displayed, Balance: R160.62",PASS,2024-08-15 17:55:59
+Login successful,PASS,2024-08-15 18:07:14
+"Balance is displayed, Balance: R140.62",PASS,2024-08-15 18:07:17
+Login successful,PASS,2024-08-15 18:09:08
+"Balance is displayed, Balance: R120.62",PASS,2024-08-15 18:09:11
+Login successful,PASS,2024-08-15 18:15:34
+"Balance is displayed, Balance: R100.62",PASS,2024-08-15 18:15:37
+Login successful,PASS,2024-08-15 18:16:50
+"Balance is displayed, Balance: R80.62",PASS,2024-08-15 18:16:53
+"Balance is displayed, Balance: Forgot PIN?",PASS,2024-08-15 18:29:53
+Login successful,PASS,2024-08-15 18:30:50
+"Balance is displayed, Balance: R80.62",PASS,2024-08-15 18:30:53
+Login successful,PASS,2024-08-15 18:33:32
+"Balance is displayed, Balance: R80.62",PASS,2024-08-15 18:33:36
+"Send Money to MoMo number is successful<appium.webdriver.webelement.WebElement (session=""3cf21f87-8f1e-4343-ab6c-33db0de5ae61"", element=""00000000-0000-084f-ffff-ffff0000075d"")>",PASS,2024-08-15 18:33:47
+Login successful,PASS,2024-08-15 18:39:13
+"Balance is displayed, Balance: R60.62",PASS,2024-08-15 18:39:17
+"Send Money to MoMo number is successful<appium.webdriver.webelement.WebElement (session=""75be7c80-1aa7-4a64-b03b-e96be6304e06"", element=""00000000-0000-0872-ffff-ffff0000075d"")>",PASS,2024-08-15 18:39:27
